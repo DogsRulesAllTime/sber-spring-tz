@@ -1,0 +1,2 @@
+RUN APP 
+ ./gradlew bootRun  
