@@ -1,0 +1,12 @@
+body{
+    font-family: "JetBrains Mono";
+    background-color: #9CDBA2;
+}
+.container{
+    background-color: #9CDBA2;
+}
+
+.blockquote{
+    background-color: #6610f2;
+    color: azure;
+}
